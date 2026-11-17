@@ -1,0 +1,93 @@
+.input_form_b{
+    width: 818px;
+    padding: 10px;
+    border: none;
+    background-color: transparent;
+    border-radius: 25px;
+     font-size: 13px;
+    font-family: "DM Serif Display", serif; 
+}
+
+.h1_footer { 
+    top: 10px;
+}
+
+.btn_card {
+    width: 700px;
+    height: 60px;
+    border-radius: 50px;
+    border: none;
+    background-color: white;
+}
+.font_h2{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    font-size: 35px;
+    font-family: "DM Serif Display", serif; 
+}
+
+.font_form{
+    width: 956px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: aliceblue;
+    padding: 15px;
+    border-radius: 45px;
+}
+
+
+footer{
+    color: black;
+    padding-top: 97px;
+}
+
+.hammasi{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.user_ul_list{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    margin-bottom: 60px;
+}
+
+.h2_1 {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 60px;
+}
+
+.h2_2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer_p {
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.btn_footer {
+   text-align: center;
+   height: 0px;
+   background-color: white;
+}
+
+
+ .map_h2{
+    padding-bottom: 30px;
+}
+
+.salom_h2{
+    margin-top: 30px;
+    padding-bottom: 40px;
+}
+
+.user_h2{
+    padding-bottom: 38px;
+}
